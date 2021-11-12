@@ -1,6 +1,6 @@
 # Penn State LandGrabU Data
 
-Penn State-specific spreadsheet data derived from the [LandGrabU](https://github.com/HCN-Digital-Projects/landgrabu-data) project.
+Penn State-specific spreadsheet data derived from the [LandGrabU](https://github.com/HCN-Digital-Projects/landgrabu-data) project. Those wishing to work with all LandGrabU data should work from the full dataset.
 
 ## Files
 
